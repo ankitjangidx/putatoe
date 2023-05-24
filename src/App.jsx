@@ -1,4 +1,4 @@
-import Services from "./Services";
+import Services from "./component/Services";
 import BannerImageContainer from "./component/BannerImageContainer"
 import Construction from "./component/Construction";
 import FooterContainer from "./component/FooterContainer";
